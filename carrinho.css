@@ -1,0 +1,15 @@
+/* display none é importante para a página ler e ocultar o carrinho. o resto do css foi só por exemplo, pode mexer */
+#carrinho {
+    display: none;
+    position:fixed;
+    height: 50%;
+    width: 40%;
+    bottom: 20px;
+    right: 20px;
+    background-color: white;
+}
+
+.img-produto {
+    height: 100%;
+    width: 100%;
+}
